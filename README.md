@@ -1,11 +1,16 @@
-## Hi there 👋
+### Hi, I'm Franck Roosevelt Ngong Tiomo 👋
 
-<!--
-**Roo3000/Roo3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering M.Eng graduate from NAHPI Bamenda (GPA 3.73/4).
 
-Here are some ideas to get you started:
+Passionate about building practical solutions with **Python, Django, PHP, Azure** and data analysis.
 
-- 🔭 I’m currently working on ...
+🚀 Currently focused on:
+- Interactive Voice Response (IVR) systems for agriculture
+- Full-stack web development
+- Cloud deployment & data projects
+
+📫 Contact: rtiomo8@gmail.com  
+🔗 GitHub: [github.com/Roo3000](https://github.com/Roo3000)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
