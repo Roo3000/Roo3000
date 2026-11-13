@@ -1,4 +1,4 @@
-### Hi, I'm Franck Roosevelt Ngong Tiomo 👋
+### Hi, I'm Ngong Tiomo Franck Roosevelt 👋
 
 Computer Engineering M.Eng graduate from NAHPI Bamenda (GPA 3.73/4).
 
